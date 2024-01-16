@@ -1,0 +1,15 @@
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr5\bin\Debug\net6.0\nmr5.exe
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr5\bin\Debug\net6.0\nmr5.deps.json
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr5\bin\Debug\net6.0\nmr5.runtimeconfig.json
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr5\bin\Debug\net6.0\nmr5.dll
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr5\bin\Debug\net6.0\nmr5.pdb
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr5\obj\Debug\net6.0\nmr5.csproj.AssemblyReference.cache
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr5\obj\Debug\net6.0\nmr5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr5\obj\Debug\net6.0\nmr5.AssemblyInfoInputs.cache
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr5\obj\Debug\net6.0\nmr5.AssemblyInfo.cs
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr5\obj\Debug\net6.0\nmr5.csproj.CoreCompileInputs.cache
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr5\obj\Debug\net6.0\nmr5.dll
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr5\obj\Debug\net6.0\refint\nmr5.dll
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr5\obj\Debug\net6.0\nmr5.pdb
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr5\obj\Debug\net6.0\nmr5.genruntimeconfig.cache
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\nmr5\obj\Debug\net6.0\ref\nmr5.dll
